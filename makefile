@@ -10,7 +10,7 @@ CPPFLAGS += -D_DEFAULT_SOURCE -D_BSD_SOURCE
 CFLAGS += -O0 -std=c11 -Wall -pedantic -pedantic-errors -g
 LD      = cc
 LDFLAGS =
-LIBS    = -lncursesw -lm
+LIBS    = -lncurses -lm
 CP      = cp
 MV      = mv
 RM      = rm

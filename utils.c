@@ -7,7 +7,6 @@
 #include "header.h"
 
 
-extern int errno;
 
 
 /*
